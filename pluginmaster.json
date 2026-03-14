@@ -1,0 +1,36 @@
+[
+  {
+    "Author": "XenaProtocol",
+    "Name": "Terra",
+    "InternalName": "Terra",
+    "Description": "Automated gardening manager for tending and harvesting crops.",
+    "Punchline": "Because gardening shouldn't be a full-time job.",
+    "ID": "833ca8e6-16ec-4ebd-82d1-643180003d0f",
+    "DownloadLinkInstall": "https://github.com/XenaProtocol/Terra/releases/latest/download/latest.zip",
+    "AssemblyVersion": "1.0.0.0",
+    "IsTestingExclusive": false,
+    "ApplicableVersion": "any",
+    "Tags": [
+      "gardening",
+      "utility",
+      "automation"
+    ]
+  },
+  {
+    "Author": "XenaProtocol",
+    "Name": "Memento",
+    "InternalName": "Memento",
+    "Description": "A cozy counter that bottles up every emote you receive so you can track exactly how loved you are.",
+    "Punchline": "Because every headpat counts.",
+    "ID": "a1b2c3d4-5e6f-7g8h-9i0j-1k2l3m4n5o6p", 
+    "DownloadLinkInstall": "https://github.com/XenaProtocol/Memento/releases/latest/download/latest.zip",
+    "AssemblyVersion": "1.0.0.0",
+    "IsTestingExclusive": false,
+    "ApplicableVersion": "any",
+    "Tags": [
+      "social",
+      "tracker",
+      "emotes"
+    ]
+  }
+]
