@@ -22,7 +22,7 @@
     "Name": "Memento",
     "InternalName": "Memento",
     "Description": "A cozy counter that bottles up every emote you receive so you can track exactly how loved you are.",
-    "Punchline": "Because every headpat counts.",
+    "Punchline": "Raise a virtual pet fuelled by the emotes you receive, and see who's been checking you out.",
     "ID": "425624d7-3058-4395-9c55-3f7ffe513953",
     "DownloadLinkInstall": "https://github.com/XenaProtocol/Memento/releases/latest/download/latest.zip",
     "AssemblyVersion": "1.2",
